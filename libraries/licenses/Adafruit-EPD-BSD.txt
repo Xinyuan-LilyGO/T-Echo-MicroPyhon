@@ -1,0 +1,36 @@
+Original notice from T-Echo/lib/Adafruit_EPD/src/Adafruit_EPD.cpp:
+
+/*!
+ * @file Adafruit_EPD.cpp
+ *
+ * @mainpage Adafruit EPD driver
+ *
+ * @section intro_sec Introduction
+ *
+ * This is the documentation for Adafruit's EPD driver for the
+ * Arduino platform.  It is designed specifically to work with the
+ * Adafruit EPD breakouts.
+ *
+ * These displays use SPI to communicate, 6 pins are required to
+ * interface
+ *
+ * Adafruit invests time and resources providing this open source code,
+ * please support Adafruit and open-source hardware by purchasing
+ * products from Adafruit!
+ *
+ * @section dependencies Dependencies
+ *
+ * This library depends on <a
+ * href="https://github.com/adafruit/Adafruit-GFX-Library"> Adafruit_GFX</a>
+ * being present on your system. Please make sure you have installed the latest
+ * version before using this library.
+ *
+ * @section author Author
+ *
+ * Written by Dean Miller for Adafruit Industries.
+ *
+ * @section license License
+ *
+ * BSD license, all text here must be included in any redistribution.
+ *
+ */

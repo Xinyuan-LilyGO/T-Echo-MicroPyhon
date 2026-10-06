@@ -1,0 +1,43 @@
+"""Original FreeMonoBold24pt7b font subset for Factory BOOTING, FAILED and SLEEP; generated from T-Echo/lib/Adafruit-GFX-Library/Fonts/FreeMonoBold24pt7b.h.
+
+See THIRD_PARTY_NOTICES.md for source licenses.
+"""
+from binascii import unhexlify
+
+FONT = (unhexlify(
+    b"07ff80007ffe0003fff0001fffc0007ffe00001ff00001f7c0000fbe00007df80007c7c0003e"
+    b"3e0003e0f8001f07c000f03f000f80f8007fffc007ffff003ffff803ffffe01fffff00f800f8"
+    b"0f8003e1ff80ffdffe0ffffff07fffff83ffdff80ffc7fffc03ffffc0fffffc3fffff87ffffe"
+    b"07c01fc1f001f07c007c1f001f07c00fc1f007e07ffff01ffff807ffff01ffffe07ffffc1f00"
+    b"3f87c003f1f0007c7c001f1f0007c7c003f7fffffbfffffeffffff3fffff87ffff007fff007f"
+    b"fff03ffffc1fffff07ffffc1f00ff0f801f87c007e3e001f1f000fcf8003e7c001f3e000f9f0"
+    b"007cf8003e7c001f3e000f9f0007cf8007e7c003e3e003f1f007f1fffff9fffff8fffff87fff"
+    b"f01fffe0007fffff7fffffbfffffdfffffe7fffff0f800f87c007c3e0e3e1f0f9f0f87c707c3"
+    b"e003fff001fff800fffc007ffe003fff001f0f800f87c387c1c3e3e001f1f000f8f8007dffff"
+    b"ffffffffffffffffffffdfffffe07ffffffffffffffffffffffff7fffff8f8007c7c003e3e00"
+    b"1f1f070f8f87c387c3e003fff001fff800fffc007ffe003fff001f0f800f87c007c3e003e0e0"
+    b"01f00000f80001fff001fffc00fffe007fff001fff0000007f8e00fff781ffffc1ffffe1ffff"
+    b"f1fe03f8fc00fcfc003e7c001f7e00073e00001f00000f800007c00003e00001f00ffef80fff"
+    b"fc07fffe03ffff00ffffc001f3f000f9fc007c7f80fe3fffff0fffff83ffff807fff0007fc00"
+    b"7fffdffffffffffffff7fffc03e0007c000f8001f0003e0007c000f8001f0003e0007c000f80"
+    b"01f0003e0007c000f8001f0003e01ffff7fffffffffffffdffff007ffc007fff003fff801fff"
+    b"c007ffc0003e00001f00000f800007c00003e00001f00000f800007c00003e00001f00000f80"
+    b"0e07c00f83e007c1f003e0f801f07c00f83e007dffffffffffffffffffffffffdfffffe07f00"
+    b"7feff80fffffc0fffffc0fff7fe07fe1ff00f81ff00f81ff80f81ffc0f81ffc0f81f7e0f81f3"
+    b"f0f81f3f0f81f1f8f81f0fcf81f0fcf81f07ef81f03ff81f03ff81f01ff81f00ff81f00ff87f"
+    b"e07f8fff03f8fff03f8fff01f87fe00f80003f80003ffc000fffe003fffe00ffffe03fc1fe0f"
+    b"e00fe1f800fc7e000fcf8000fbf0001ffc0001ff80003ff00007fe0000ffc0001ff80003ff00"
+    b"007ff0001fbe0003e7e000fc7e003f0fe00fe0ff07f80ffffe00ffff800fffe000fff80003f8"
+    b"007fff80fffff0fffff8fffffc7ffffe1f00fe1f003f1f001f1f001f1f001f1f001f1f003f1f"
+    b"007e1ffffe1ffffc1ffff81ffff01fff801f00001f00001f00001f00007ffc00fffe00fffe00"
+    b"fffe007ffc0001fc701ffde0ffff87fffe3ffff8fc0fe7e01f9f003e7c00f9f001c7f0000ff8"
+    b"003fff007fff00ffff00fffc001ff80007e0000fdc001ff8007fe001ffc00fffc0fefffffbff"
+    b"ffcffffe1cfff000fe00ffffffffffffffffffffffffffffffffc1f07fe0f83ff07c1ff83e0f"
+    b"fc1f07fe0f83ee07c0e003e00001f00000f800007c00003e00001f00000f800007c00003e000"
+    b"01f0000fff800fffe007fff003fff800fff800"
+), unhexlify(
+    b"00001d1b1cffe662001a1b1c01e6000000001c0000ba00191b1c01e60f01191b1c01e6640119"
+    b"1b1c01e6b901191d1c02e5000000001c00001402131b1c05e6000000001c0000000000001c00"
+    b"005502191b1c02e6000000001c0000aa021c1b1c00e609031b1d1c01e56b03181b1c01e60000"
+    b"00001c0000000000001c0000bc03161d1c03e50c04191b1c02e6"
+), 65, 84, 47)
