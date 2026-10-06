@@ -53,33 +53,33 @@
 
 2. Download version 4.1.7 or the latest version (Choose Linux or macOS or Windows)
 
-   ![thonny1](.\image\thonny1.png)
+   ![thonny1](./image/thonny1.png)
 
 3. After installing the installation package, open Thonny IDE
 
 4. Click Configure interpreter
 
-   ![thonny2](.\image\thonny2.png)
+   ![thonny2](./image/thonny2.png)
 
 5. Select MicroPython (ESP32)
 
-   ![thonny3](.\image\thonny3.png)
+   ![thonny3](./image/thonny3.png)
 
 6. Select the corresponding port number and confirm
 
-   ![thonny4](.\image\thonny4.png)
+   ![thonny4](./image/thonny4.png)
 
 7. Test run the program (Print "hello world" below is OK. You can use the shortcut key F5 to run the program and ctrl+F2 to end it)
 
    `print("hello world")`
 
-   ![thonny5](.\image\thonny5.png)
+   ![thonny5](./image/thonny5.png)
 
 8. If you want to run the program automatically, please click Save, then select MicroPython device and name it main.py
 
-   ![thonny6](.\image\thonny6.png)
+   ![thonny6](./image/thonny6.png)
 
-   ![thonny7](.\image\thonny7.png)
+   ![thonny7](./image/thonny7.png)
 
 9. After successful saving, reset the T-Pico-2350.
 
@@ -91,19 +91,19 @@
 
 3. Open the folder and open "Arduino Lab for MicroPython.exe".
 
-   ![Arduino1](.\image\Arduino1.png)
+   ![Arduino1](./image/Arduino1.png)
 
 4. Connect the serial port.
 
-   ![Arduino2](.\image\Arduino2.png)
+   ![Arduino2](./image/Arduino2.png)
 
 5. Click Run the program (If you want to Stop the program, please click Stop).
 
-   ![Arduino3](.\image\Arduino3.png)
+   ![Arduino3](./image/Arduino3.png)
 
 6. If you want to run the program automatically, please click file and then create a new code named "main.py". Select  "Board" Then write the code into main.py and save it. Reset the T-LoRa-Pager.
 
-   ![Arduino4](.\image\Arduino4.png)
+   ![Arduino4](./image/Arduino4.png)
 
 ### 3.RT-Thread MicroPython
 
